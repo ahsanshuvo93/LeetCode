@@ -22,6 +22,7 @@ namespace _704._Binary_Search
             Console.ReadKey();
         }
 
+        // Binary Search Return the index number from the array
         static int BinarySearch(int[] nums, int target)
         {
             try
@@ -31,19 +32,19 @@ namespace _704._Binary_Search
 
                 while (L < R)
                 {
-                    int M = (L + R) / 2;
+                    int M = (L + R) / 2;    // Average of two initial & final index
 
                     if (nums[M] < target)
                     {
-                        L = M + 1;
+                        L = M + 1;      // Narrow down the left index
                     }
                     else 
                     {
-                        R = M;
+                        R = M;          // Narrow down the right index
                     }
                     
                 }
-                return (L == R && nums[L] == target) ? L : -1;
+                return (L == R && nums[L] == target) ? L : -1;      // Return the index of target number. If it is not exist return -1
             }
             catch (Exception ex)
             {
