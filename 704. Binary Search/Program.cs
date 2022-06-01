@@ -9,6 +9,7 @@ namespace _704._Binary_Search
         // Topic : Binary Search
         // URL : https://leetcode.com/problems/binary-search/
         // Status : My Solution
+        // Level : Easy
 
         static void Main(string[] args)
         {

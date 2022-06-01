@@ -9,7 +9,7 @@ namespace _01._TwoSum
         // Topic : Array/String
         // URL : https://leetcode.com/problems/two-sum/
         // Status : My Solution
-
+        // Level : Easy
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");

@@ -10,6 +10,7 @@ namespace _01._TwoSum__Hash_Map_Solution_
         // Topic : Array/String
         // URL : https://leetcode.com/problems/two-sum/
         // Status : Hash Map Solution
+        // Level : Easy
 
         static void Main(string[] args)
         {
