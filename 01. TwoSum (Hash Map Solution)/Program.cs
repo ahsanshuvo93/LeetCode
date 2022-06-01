@@ -14,11 +14,9 @@ namespace _01._TwoSum__Hash_Map_Solution_
 
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
 
             int[] intArray = new int[] { 3,3 };
             int target = 6;
-            //Console.WriteLine(TwoSum(intArray, 9));
 
             var result = TwoSum(intArray, target);
 
@@ -31,12 +29,12 @@ namespace _01._TwoSum__Hash_Map_Solution_
 
             output = output.Remove(output.Length - 1, 1);
 
-
             Console.WriteLine(output);
 
             Console.ReadKey();
         }
 
+        // Hash Map Method of Two Sum
         public static int[] TwoSum(int[] nums, int target)
         {
 

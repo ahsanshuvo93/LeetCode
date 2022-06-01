@@ -10,12 +10,11 @@ namespace _01._TwoSum
         // URL : https://leetcode.com/problems/two-sum/
         // Status : My Solution
         // Level : Easy
+
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
 
             int[] intArray = new int[] { 2, 7, 11, 15 };
-            //Console.WriteLine(TwoSum(intArray, 9));
 
             var result = TwoSum(intArray, 9);
 
@@ -35,7 +34,7 @@ namespace _01._TwoSum
         }
 
 
-        // Method of Two Sum
+        //  Brute Force Method of Two Sum
         public static int[] TwoSum(int[] nums, int target)
         {
             //Array.Sort(nums);
