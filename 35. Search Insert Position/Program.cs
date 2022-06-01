@@ -18,12 +18,13 @@ namespace _35._Search_Insert_Position
             int[] array = new int[] { 1, 3, 5, 6 };
             int target = 70;
 
-            Console.WriteLine(BinarySearch(array, target));
+            Console.WriteLine(SearchInsert(array, target));
 
             Console.ReadKey();
         }
 
-        static int BinarySearch(int[] nums, int target)
+        // Method to Search Value and Insert if Needed
+        static int SearchInsert(int[] nums, int target)
         {
             try
             {
