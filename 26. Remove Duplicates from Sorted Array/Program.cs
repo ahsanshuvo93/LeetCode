@@ -6,7 +6,7 @@ namespace _26._Remove_Duplicates_from_Sorted_Array
     {
         // Date : 23/October/2022
         // Problem Name : 26. Remove Duplicates from Sorted Array
-        // Topic : Math
+        // Topic : Array
         // URL : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
         // Status : My Solution
         // Level : Easy
