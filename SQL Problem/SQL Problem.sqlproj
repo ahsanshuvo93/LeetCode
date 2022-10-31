@@ -59,5 +59,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="595. Big Countries.sql" />
+    <None Include="1757. Recyclable and Low Fat Products.sql" />
   </ItemGroup>
 </Project>
