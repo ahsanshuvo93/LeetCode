@@ -63,5 +63,6 @@
     <None Include="584. Find Customer Referee.sql" />
     <None Include="183. Customers Who Never Order.sql" />
     <None Include="1873. Calculate Special Bonus.sql" />
+    <None Include="627. Swap Salary.sql" />
   </ItemGroup>
 </Project>
