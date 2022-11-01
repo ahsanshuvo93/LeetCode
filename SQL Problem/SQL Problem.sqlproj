@@ -62,5 +62,6 @@
     <None Include="1757. Recyclable and Low Fat Products.sql" />
     <None Include="584. Find Customer Referee.sql" />
     <None Include="183. Customers Who Never Order.sql" />
+    <None Include="1873. Calculate Special Bonus.sql" />
   </ItemGroup>
 </Project>
