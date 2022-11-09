@@ -64,5 +64,10 @@
     <None Include="183. Customers Who Never Order.sql" />
     <None Include="1873. Calculate Special Bonus.sql" />
     <None Include="627. Swap Salary.sql" />
+    <None Include="196. Delete Duplicate Emails.sql" />
+    <None Include="175. Combine Two Tables.sql" />
+    <None Include="1667. Fix Names in a Table.sql" />
+    <None Include="1484. Group Sold Products By The Date.sql" />
+    <None Include="1527. Patients With a Condition.sql" />
   </ItemGroup>
 </Project>
